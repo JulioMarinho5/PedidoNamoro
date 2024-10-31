@@ -1,0 +1,102 @@
+body {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+main {
+  font-size: larger;
+}
+.img1 {
+  border-radius: 50%;
+  width: 750px;
+  height: auto;
+  border: 5px solid gray;
+  margin-bottom: 20px;
+}
+.agenda {
+  margin-top: 60px;
+}
+ul {
+  list-style: square;
+  list-style-position: inside;
+  display: inline-block;
+}
+li {
+  text-align: left;
+}
+#topico-lista {
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+.img2 {
+  border-radius: 2%;
+  width: 800px;
+  height: auto;
+  border: 5px solid gray;
+  margin-bottom: 20px;
+}
+.but1 {
+  cursor: pointer;
+  font-size: 30px;
+  background-color: grey;
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border-radius: 8%;
+  border: 3px solid rgb(76, 73, 73);
+  margin-bottom: 60px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.but2 {
+  cursor: pointer;
+  font-size: 30px;
+  background-color: grey;
+  color: white;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  border-radius: 8%;
+  border: 3px solid rgb(76, 73, 73);
+  margin-top: 60px;
+  margin-bottom: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.zap1 {
+  border-radius: 50%;
+  width: 40px;
+  height: auto;
+  padding-right: 3px;
+  vertical-align: middle;
+}
+.zap2 {
+  border-radius: 50%;
+  width: 40px;
+  height: auto;
+  padding-right: 3px;
+  vertical-align: middle;
+}
+div {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  display: inline-block;
+  border-radius: 15px;
+  text-align: left;
+  background-color: rgb(39, 39, 39);
+  vertical-align: middle;
+  padding-left: 30px;
+  border: 10px solid black;
+  width: 550px;
+  height: 150px;
+  font-size: smaller;
+  line-height: 0.5;
+}
+.div-info {
+  font-size: x-large;
+}
+#ig {
+  color: rgb(146, 107, 185);
+  font-size: larger;
+}
+iframe {
+  border-radius: 10px;
+}
